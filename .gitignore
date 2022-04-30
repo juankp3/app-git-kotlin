@@ -13,3 +13,7 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+
+# Archivos y carpetas ignoradas
+ ejemplo/
