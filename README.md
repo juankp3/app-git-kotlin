@@ -1,5 +1,3 @@
-Aplicacion web para proveedores de Mascotas Latinas
-
 # Comandos Básicos de GIT
 
 ## git config
